@@ -26,4 +26,4 @@ You don’t need to do the full session here , the purpose of this rehearsal  is
 
 * We will be providing you access to the **SEF FB Page as an editor** which would provide you with the access privileges to go live on  SEF FB page.
 
-### Compilation Guide [Hasitha Senevirathne](https://github.com/hasitha95)
+### Compilation Credits - [Hasitha Senevirathne](https://github.com/hasitha95)
