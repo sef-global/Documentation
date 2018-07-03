@@ -79,3 +79,23 @@ organisation’s standards and policies.
 * Investigate cost-effective benefit plans and other fringe benefits which the organization may offer employees and potential employees with the goal of attracting and retaining qualified individuals.
 
 * Oversee the production of monthly reports including reconciliations with funders and pension plan requirements, as well as financial statements and cash flow projections for use by Executive management, as well as the Audit/Finance Committee and Board of Directors.
+
+### Secretary
+
+* Record meeting minutes and handle any documentation regarding the Sustainable Education Foundation.
+
+* Schedule appointments / sending appointment mails and letters  
+
+* Arranaging meetings with the partners of Sustainable Education Foundation 
+
+* Maintain scheduling and event calendars.
+
+* Coordinate conferences and meetings.
+
+* Establish work procedures and schedules, and keep track of the daily work of staff.
+
+* Review work done by others to check for correct spelling and grammar, ensure that company format policies are followed, and recommend revisions.
+
+* Open, read, route, and distribute incoming mail and other material, and prepare answers to routine letters.
+
+* Schedule and confirm appointments for clients, customers, or supervisors.
