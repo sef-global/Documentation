@@ -1,12 +1,16 @@
-# SEF FaceBook Live Technical guidelines
-### The equipments you would need for a FB Live Broadcast.
+# SEF Facebook Live Technical Guidelines
+
+### The equipments you would need for a Facebook Live Broadcast.
 1. A Computer or a Laptop
 * If you are using a desktop  **computer** then you would need a  **webcam and a microphone**.
 * If you are using a  **Laptop** then you can use **inbuilt webcam and the microphone**.
+
+Can you use a mobile phone? Well, yes, but we don't recommend it due to several reasons, including the fact that it is difficult to handle.
+
 2. Internet Connection
 * You would be needing **a good internet connection** since fast upload speed is important for an uninterrupted broadcast of the live video.
 
-### Tools or Software required for a FB Live Broadcast.
+### Tools or Software required for a Facebook Live Broadcast.
 
 * If you are going to conduct the Live Broadcast **without any slides**, then you could **directly go live** on Facebook using your web browser.(We highly recommend Google Chrome).
 
@@ -14,7 +18,7 @@
 
 * You can follow this **[Video Tutorial](https://www.youtube.com/watch?v=rapsYGqHsUA)** for step by step guidance on live streaming using OBS Studio.                
 
-### Rehearsal for the FB Live Broadcast.
+### Rehearsal for the Facebook Live Broadcast.
 
  *Before going live on SEF FB page, we highly recommend you to conduct a **rehearsal**.
 
@@ -22,7 +26,7 @@
 You don’t need to do the full session here , the purpose of this rehearsal  is to assure that your FB Live setup is working fine.
 * SEF team members will give you feedback on the rehearsal.
 
-### Going live on **[SEF FB Page](https://www.facebook.com/sustainableeducationfoundation/)**.
+### Going lLive on **[SEF FB Page](https://www.facebook.com/sustainableeducationfoundation/)**.
 
 * We will be providing you access to the **SEF FB Page as an editor** which would provide you with the access privileges to go live on  SEF FB page.
 
