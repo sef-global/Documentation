@@ -1,9 +1,9 @@
 
 ### Chief Executive Officer
 
-To lead, in conjunction with the chairman and advisory panel to formulate organisational strategies and agenda.
+* To lead, in conjunction with the chairman and advisory panel to formulate organisational strategies and agenda.
 
-To lead and oversee the implementation of the organisation’s long and short term plans in accordance with its strategy.
+* To lead and oversee the implementation of the organisation’s long and short term plans in accordance with its strategy.
 
 To ensure the organisation is appropriately organized and staffed and to have the authority to hire and terminate staff as necessary to enable it to achieve the approved strategy.
 
