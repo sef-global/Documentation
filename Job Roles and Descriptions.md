@@ -84,9 +84,9 @@ organisation’s standards and policies.
 
 * Record meeting minutes and handle any documentation regarding the Sustainable Education Foundation.
 
-* Schedule appointments / sending appointment mails and letters  
+* Schedule appointments/ sending appointment mails and letters.  
 
-* Arranaging meetings with the partners of Sustainable Education Foundation 
+* Arranaging meetings with the partners of Sustainable Education Foundation.
 
 * Maintain scheduling and event calendars.
 
