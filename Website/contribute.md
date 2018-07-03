@@ -28,3 +28,6 @@ Our team consists of **exceptional young talent from Sri Lanka**. We would train
 
 ## Advisory Panel
 If you are **an elite in the industry or in academia** and share the same vision as ours we believe you would be a great asset to the team. You can join our advisory panel via contacting us with your CV.
+
+## Donations
+Sometimes what we do leads to expenses, you can help us by donating and supporting us on a monetary basis, to cover those expenses. Contact us to find out how you can donate.
