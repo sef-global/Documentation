@@ -32,6 +32,22 @@ organisation’s standards and policies.
 
 ### Chief Communications Officer
 
+### Chief Human Resource Officer
+
+* Establish and implement HR efforts that effectively communicate and support the firm's mission and strategic vision.
+
+* Develop HR plans and strategies to support the achievement of the overall business operations objectives.
+
+* Function as a strategic business advisor to the executive/senior management of each business unit or specialty group regarding key organizational and management issues.
+
+* Work with the firm's executive management to establish a sound plan of management succession that corresponds to the strategy and objectives of the firm. 
+
+* Develop comprehensive strategic recruiting and retention plans to meet the human capital needs of strategic goals.
+
+* Develop and implement comprehensive compensation and benefits plans that are competitive and cost-effective for the firm.
+
+* Provide overall leadership and guidance to the HR function by overseeing talent acquisition, career development, succession planning, retention, training, leadership development, compensation and benefits globally.
+
 ### Chief Financial Officer
 
 * Assist in performing all tasks necessary to achieve the organization's mission and help execute staff succession and growth plans.
