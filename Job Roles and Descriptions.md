@@ -95,3 +95,14 @@ organisation’s standards and policies.
 * Open, read, route, and distribute incoming mail and other material, and prepare answers to routine letters.
 
 * Schedule and confirm appointments for clients, customers, or supervisors.
+
+### Operations Executive
+### Marketing Executive
+### Creative Design Executive
+### Human Resource Executive
+### Public Relations Executive
+### Software Architect
+### Assistant Secretary
+### Student Amabassador
+### Video Editor
+### Digital Marketing Executive
