@@ -97,6 +97,17 @@ organisation’s standards and policies.
 * Schedule and confirm appointments for clients, customers, or supervisors.
 
 ### Operations Executive
+
+Communicate with the higher management to prepare a strategy for operations to run efficiently and effectively. 
+
+Assist in the development of long term plans to achieve the goals and objectives which are already set.
+
+Evaluate the performance of the operations of both internal and external activities of the foundation.
+
+Maintain and ensure the continuation of regular operations of the foundation (for e.g. Facebook Live Sessions).
+
+Initiate and organize workshops, guest talks and sessions in accordance with the year plan.
+
 ### Marketing Executive
 ### Creative Design Executive
 
