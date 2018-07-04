@@ -98,15 +98,15 @@ organisation’s standards and policies.
 
 ### Operations Executive
 
-Communicate with the higher management to prepare a strategy for operations to run efficiently and effectively. 
+* Communicate with the higher management to prepare a strategy for operations to run efficiently and effectively. 
 
-Assist in the development of long term plans to achieve the goals and objectives which are already set.
+* Assist in the development of long term plans to achieve the goals and objectives which are already set.
 
-Evaluate the performance of the operations of both internal and external activities of the foundation.
+* Evaluate the performance of the operations of both internal and external activities of the foundation.
 
-Maintain and ensure the continuation of regular operations of the foundation (for e.g. Facebook Live Sessions).
+* Maintain and ensure the continuation of regular operations of the foundation (for e.g. Facebook Live Sessions).
 
-Initiate and organize workshops, guest talks and sessions in accordance with the year plan.
+* Initiate and organize workshops, guest talks and sessions in accordance with the year plan.
 
 ### Marketing Executive
 ### Creative Design Executive
@@ -146,7 +146,7 @@ Initiate and organize workshops, guest talks and sessions in accordance with the
 
 * Coordinate conferences and meetings.
 
-*. Establish work procedures and schedules, and keep track of the daily work of staff.
+* Establish work procedures and schedules, and keep track of the daily work of staff.
 
 * Review work done by others to check for correct spelling and grammar, ensure that company format policies are followed, and recommend revisions.
 
