@@ -136,15 +136,23 @@ Initiate and organize workshops, guest talks and sessions in accordance with the
 ### Software Architect
 ### Assistant Secretary
 
-Record meeting minutes and handle any documentation regarding the Sustainable Education Foundation.
-2. Schedule appointments / sending appointment mails and letters.
-3. Arranaging meetings with the partners of Sustainable Education Foundation. 
-4. Maintain scheduling and event calendars.
-5. Coordinate conferences and meetings.
-6. Establish work procedures and schedules, and keep track of the daily work of staff.
-7. Review work done by others to check for correct spelling and grammar, ensure that company format policies are followed, and recommend revisions.
-8. Open, read, route, and distribute incoming mail and other material, and prepare answers to routine letters.
-9. Schedule and confirm appointments for clients, partners, customers, or supervisors.
+* Record meeting minutes and handle any documentation regarding the Sustainable Education Foundation.
+
+* Schedule appointments / sending appointment mails and letters.
+
+* Arranaging meetings with the partners of Sustainable Education Foundation. 
+
+* Maintain scheduling and event calendars.
+
+* Coordinate conferences and meetings.
+
+*. Establish work procedures and schedules, and keep track of the daily work of staff.
+
+* Review work done by others to check for correct spelling and grammar, ensure that company format policies are followed, and recommend revisions.
+
+* Open, read, route, and distribute incoming mail and other material, and prepare answers to routine letters.
+
+* Schedule and confirm appointments for clients, partners, customers, or supervisors.
 
 ### Student Amabassador
 
