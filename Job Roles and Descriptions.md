@@ -44,7 +44,7 @@ organisation’s standards and policies.
 
 * Develop comprehensive strategic recruiting and retention plans to meet the human capital needs of strategic goals.
 
-* Develop and implement comprehensive compensation and benefits plans that are competitive and cost-effective for the firm.
+* Develop and implement comprehensive compensation and benefits plans that are competitive and cost-effective for the foundation.
 
 * Provide overall leadership and guidance to the HR function by overseeing talent acquisition, career development, succession planning, retention, training, leadership development, compensation and benefits globally.
 
@@ -125,5 +125,14 @@ organisation’s standards and policies.
 ### Software Architect
 ### Assistant Secretary
 ### Student Amabassador
+
+* Act as the liason between the representing university/ institute and the foundation.
+
+* Share and communicate foundation related messages, news and events to the university/ institute community.
+
+* Organize workshops, guest talks, sessions at the university/ institute in collaboration with the foundation.
+
+* Involve in the activities of any other preferred team with the foundation.
+
 ### Video Editor
 ### Digital Marketing Executive
