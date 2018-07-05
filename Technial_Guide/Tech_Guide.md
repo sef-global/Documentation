@@ -26,7 +26,7 @@ Can you use a mobile phone? Well, yes, but we don't recommend it due to several 
 You don’t need to do the full session here , the purpose of this rehearsal  is to assure that your FB Live setup is working fine.
 * SEF team members will give you feedback on the rehearsal.
 
-### Going lLive on **[SEF FB Page](https://www.facebook.com/sustainableeducationfoundation/)**.
+### Going Live on **[SEF FB Page](https://www.facebook.com/sustainableeducationfoundation/)**.
 
 * We will be providing you access to the **SEF FB Page as an editor** which would provide you with the access privileges to go live on  SEF FB page.
 
