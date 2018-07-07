@@ -156,6 +156,8 @@ organisation’s standards and policies.
 
 ### Student Amabassador
 
+* Organize 3+ events to promote SEF at your organization.
+
 * Act as the liason between the representing university/ institute and the foundation.
 
 * Share and communicate foundation related messages, news and events to the university/ institute community.
