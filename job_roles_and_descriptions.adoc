@@ -1,5 +1,5 @@
 
-### Chief Executive Officer
+=== Chief Executive Officer
 
 * To lead, in conjunction with the chairman and advisory panel to formulate organisational strategies and agenda.
 
@@ -24,15 +24,15 @@ organisation’s standards and policies.
 
 * To ensure  discipline and ethics are maintained within the organisation.
 
-### Chief Technology Officer
+=== Chief Technology Officer
 
-### Chief Operating Officer
+=== Chief Operating Officer
 
-### Chief Marketing Officer
+=== Chief Marketing Officer
 
-### Chief Communications Officer
+=== Chief Communications Officer
 
-### Chief Human Resource Officer
+=== Chief Human Resource Officer
 
 * Establish and implement HR efforts that effectively communicate and support the firm's mission and strategic vision.
 
@@ -48,7 +48,7 @@ organisation’s standards and policies.
 
 * Provide overall leadership and guidance to the HR function by overseeing talent acquisition, career development, succession planning, retention, training, leadership development, compensation and benefits globally.
 
-### Chief Financial Officer
+=== Chief Financial Officer
 
 * Assist in performing all tasks necessary to achieve the organization's mission and help execute staff succession and growth plans.
 
@@ -76,7 +76,7 @@ organisation’s standards and policies.
 
 * Serve as one of the trustees and oversee administration and financial reporting of the organization's Savings Plan.
 
-### Secretary
+=== Secretary
 
 * Record meeting minutes and handle any documentation regarding the Sustainable Education Foundation.
 
@@ -96,7 +96,7 @@ organisation’s standards and policies.
 
 * Schedule and confirm appointments for clients, customers, or supervisors.
 
-### Operations Executive
+=== Operations Executive
 
 * Communicate with the higher management to prepare a strategy for operations to run efficiently and effectively. 
 
@@ -108,8 +108,8 @@ organisation’s standards and policies.
 
 * Initiate and organize workshops, guest talks and sessions in accordance with the year plan.
 
-### Marketing Executive
-### Creative Design Executive
+=== Marketing Executive
+=== Creative Design Executive
 
 * Prepares work to be accomplished by gathering information and materials.
 
@@ -131,10 +131,10 @@ organisation’s standards and policies.
 
 * Contributes to team effort by accomplishing related results as needed.
 
-### Human Resource Executive
-### Public Relations Executive
-### Software Architect
-### Assistant Secretary
+=== Human Resource Executive
+=== Public Relations Executive
+=== Software Architect
+=== Assistant Secretary
 
 * Record meeting minutes and handle any documentation regarding the Sustainable Education Foundation.
 
@@ -154,7 +154,7 @@ organisation’s standards and policies.
 
 * Schedule and confirm appointments for clients, partners, customers, or supervisors.
 
-### Student Amabassador
+=== Student Amabassador
 
 * Organize 3+ events to promote SEF at your organization.
 
@@ -166,5 +166,5 @@ organisation’s standards and policies.
 
 * Involve in the activities of any other preferred team with the foundation.
 
-### Video Editor
-### Digital Marketing Executive
+=== Video Editor
+=== Digital Marketing Executive

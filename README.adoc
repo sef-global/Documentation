@@ -1,0 +1,11 @@
+= Documentation
+
+include::vision_and_mission/vision_n_mission.adoc[]
+
+== Information for volunteers
+
+include::job_roles_and_descriptions.adoc[]
+
+== Information for resource personnel
+
+include::technical_guide/tech_guide.adoc[]
